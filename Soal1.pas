@@ -1,6 +1,6 @@
 uses crt;   //untuk import unit crt yang kita pake di built in function clrscr
 
-var
+var // mendeklarasikan variabel
     jarak: integer; // variabel jarak bertipe data integer 
     premium: string; // variabel premium tipe data string
     total: real; // variabel bernama total dan total_akhir tipe data real
